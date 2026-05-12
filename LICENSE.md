@@ -1,4 +1,4 @@
-# 
+# OBS Studio for macOS instant LUT: auto-color-grading & compressor offers the most advanced OBS Studio for macOS lut, with auto-color-grading and compressor. Ideal for professional
 
 
 
